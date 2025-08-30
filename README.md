@@ -14,6 +14,6 @@
 ---
 
 ### Arquivo
-> _"Menos cor. Mais código. Tudo no lugar certo."_
+> _"fade to black"_
 
 ---
