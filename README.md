@@ -1,20 +1,11 @@
 # urgx  
 
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header)
-
-██╗ ██╗██████╗ ██████╗ ██╗ ██╗
-██║ ██║██╔══██╗██╔═══██╗██║ ██╔╝
-██║ ██║██████╔╝██║ ██║█████╔╝
-██║ ██║██╔═══╝ ██║ ██║██╔═██╗
-╚██████╔╝██║ ╚██████╔╝██║ ██╗
-╚═════╝ ╚═╝ ╚═════╝ ╚═╝ ╚═╝
----
-
+![Typing Animation](./typing.gif)
 
 ---
 
 ### Sobre Mim
-- **Dev** com foco em **React, Tailwind e Vite**.  
+- Dev focado em **React, Tailwind e Vite**.  
 - Explorando **UI minimalista** + **animações suaves**.  
 - Discord: **bfxa**
 
@@ -35,8 +26,3 @@
 
 ### Contato
 ![Discord](https://img.shields.io/badge/Discord-bfxa-000000?style=for-the-badge&logo=discord&logoColor=white)
-
----
-
-![Footer](https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer)
-
